@@ -1,0 +1,25 @@
+{
+    "keyboard": "elser/squeak_breadboard_with_encoders",
+    "keymap": "default",
+    "layout": "LAYOUT_all",
+    "layers": [
+        [
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO",
+            "KC_NO", "KC_NO",
+            "KC_NO", "KC_MS_BTN2",
+            "KC_NO", "KC_MS_BTN1",
+            "KC_NO",
+            "KC_NO", "KC_NO",
+            "KC_NO", "KC_NO",
+            "KC_NO", "KC_NO",
+            "KC_NO", "KC_NO",
+            "KC_NO", "KC_NO",
+            "KC_NO", "KC_NO",
+            "KC_NO", "KC_NO"
+        ]
+    ]
+}
